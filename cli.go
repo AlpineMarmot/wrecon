@@ -1,0 +1,5 @@
+package wrecon
+
+func CleanScreen() {
+
+}

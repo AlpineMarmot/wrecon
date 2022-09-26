@@ -1,0 +1,17 @@
+{
+  "sites": [
+    {
+      "name": "Example!",
+      "address": "http://example.com"
+    },
+    {
+      "address": "https://google.com"
+    },
+    {
+      "address": "https://isurelydontexistsihopeokitslongenough.com"
+    },
+    {
+      "address": "https://www.reddit.com"
+    }
+  ]
+}
